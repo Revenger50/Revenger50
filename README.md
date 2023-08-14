@@ -36,18 +36,4 @@ Let's connect and collaborate:
 Here's a summary of my GitHub activity:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## Recent Blog Posts
-Check out some of my recent blog posts:
-
-- [Blog Post 1](#) - Exploring the world of CSS animations.
-- [Blog Post 2](#) - Tips for optimizing SQL queries in large databases.
-- [Blog Post 3](#) - Getting started with machine learning using Python.
-
-## Featured Repositories
-Take a look at some of my featured repositories:
-
-- [Repo 1](#) - A collection of useful bash scripts for system administration.
-- [Repo 2](#) - A responsive web design framework built with CSS Grid.
-- [Repo 3](#) - An interactive data visualization project using D3.js.
-
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch.
