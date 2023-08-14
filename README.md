@@ -2,8 +2,9 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 <p>Welcome to my GitHub profile! I'm constantly learning and exploring new technologies to create exciting projects.</p>
-<img align="left" alt="coding" width="400" src="https://media.tenor.com/x7FrMk4q10IAAAAM/hacker-reality-colored-keyboard.gif">
+<img padding-right="50px" align="left" alt="coding" width="400" src="https://media.tenor.com/x7FrMk4q10IAAAAM/hacker-reality-colored-keyboard.gif">
 - 📫 How to reach me: [D.programmer@proton.me](mailto:D.programmer@proton.me)
+
 
 ## Languages and Tools
 Here are some of the languages and tools I work with:
