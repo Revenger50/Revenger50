@@ -1,3 +1,4 @@
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/x7FrMk4q10IAAAAM/hacker-reality-colored-keyboard.gif">
 <h1 align="center">Hi 👋, I'm a student</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
