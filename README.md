@@ -1,5 +1,5 @@
-# Hi 👋, I'm a student
-## A passionate full stack developer
+<h1 align="center">Hi 👋, I'm a student</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
 Welcome to my GitHub profile! I'm constantly learning and exploring new technologies to create exciting projects.
 
