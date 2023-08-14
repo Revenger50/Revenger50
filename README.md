@@ -29,6 +29,6 @@ Let's connect and collaborate:
 
 ## GitHub Stats
 Here's a summary of my GitHub activity:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Revenger50&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch.
