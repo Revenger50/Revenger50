@@ -16,18 +16,12 @@ Here are some of the languages and tools I work with:
     <!-- Add more language and tool icons here -->
 </p>
 
-## Projects
-Check out some of my recent projects:
-
-- [Project 1](#) - A web application using HTML, CSS, and JavaScript.
-- [Project 2](#) - A mobile app built with Flutter for cross-platform development.
-- [Project 3](#) - An interactive game developed in Unity.
 
 ## Connect with Me
 Let's connect and collaborate:
 
 <p align="left">
-    <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/revenger-anonymous-99047425a/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
     <!-- Add more social media icons and links here -->
