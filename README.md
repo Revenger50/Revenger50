@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm a student</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-Welcome to my GitHub profile! I'm constantly learning and exploring new technologies to create exciting projects.
+<p>Welcome to my GitHub profile! I'm constantly learning and exploring new technologies to create exciting projects.</p>
 
-📫 How to reach me: [D.programmer@proton.me](mailto:D.programmer@proton.me)
+- 📫 How to reach me: [D.programmer@proton.me](mailto:D.programmer@proton.me)
 
 ## Languages and Tools
 Here are some of the languages and tools I work with:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revenger50&show_icons=true&locale=en&layout=compact" alt="revenger50" /></p>
 
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
