@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm a student</h1>
 <h3 align="center">A passionate full stack developer</h3>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revenger50&label=Profile%20views&color=0e75b6&style=flat" alt="revenger50" /> </p>
-
+-->
 <!--
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 -->
