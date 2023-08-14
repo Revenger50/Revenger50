@@ -45,10 +45,10 @@ Check out some of my recent projects:
 Here's a summary of my GitHub activity:
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revenger50&show_icons=true&locale=en&layout=compact" alt="revenger50" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Revenger50&show_icons=true&locale=en&layout=compact" alt="Revenger50" /></p>
 <br>
 <div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revenger50&" alt="revenger50" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Revenger50&" alt="revenger50" /></p>
 </div>
 
 <br>
